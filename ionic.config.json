@@ -1,0 +1,7 @@
+{
+  "name": "cypress-branch-commands",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
